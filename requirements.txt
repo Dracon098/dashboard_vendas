@@ -1,0 +1,5 @@
+plotly==5.21.0
+requests==2.31.0
+pandas==2.1.3
+
+
